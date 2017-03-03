@@ -1,6 +1,8 @@
 ## PTV App
 
-This app shows whether lifts are available at Victoria's Public Transport stations.
+This app shows whether lifts are available at Victoria's Public Transport stations
+It is created usng React, Redux, Styled components & the principles of atomic design. It is tested using jest.
+
 
 ## Development
 
