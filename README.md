@@ -7,7 +7,7 @@
 Clone this repository:
 
 ```sh
-git clone https://github.com/mrpatiwi/routed-react.git
+git clone https://github.com/Sadaf08/ptv-app.git
 cd routed-react
 ```
 
