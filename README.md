@@ -1,6 +1,6 @@
 ## PTV App
 
-
+This app shows whether lifts are available at Victoria's Public Transport stations.
 
 ## Development
 
