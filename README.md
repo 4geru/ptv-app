@@ -1,7 +1,7 @@
 ## PTV App
 
-This app shows whether lifts are available at Victoria's Public Transport stations
-It is created usng React, Redux, Router, Styled components & the principles of atomic design. It is tested using Jest.
+This app shows whether lifts are available at Victoria's Public Transport stations.
+It is built using React, Redux, Router, Styled components & the principles of atomic design. It is tested using Jest.
 
 Victoria's Public Transport API consumed is documented [here] (https://www.ptv.vic.gov.au/about-ptv/ptv-data-and-reports/digital-products/).
 
